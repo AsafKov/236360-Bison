@@ -1,4 +1,0 @@
-void foo()
-{
-bool x = not a and not y;
-}
